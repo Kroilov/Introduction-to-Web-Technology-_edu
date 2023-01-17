@@ -1,0 +1,2 @@
+HTTPS (HyperText Transfer Protocol Secure)
+.\1_protocol.png
