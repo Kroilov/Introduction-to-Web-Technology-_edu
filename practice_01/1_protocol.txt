@@ -1,0 +1,2 @@
+HTTPS (HyperText Transfer Protocol Secure)
+https://github.com/Kroilov/Introduction-to-Web-Technology-_edu/blob/main/practice_01/1_protocol.png
